@@ -90,7 +90,3 @@ async def on_command_error(ctx, error):
 # Запускаем бота с помощью токена
 bot.run(config.TOKEN)
 
-
-
-
-#TOKEN = 'MTEyNjk5NjQ2MzAzODIzODczMA.GgeCLc.LnaULW8lTTAOCi6sU-Tpw_a9t4V9pd-hEr9Otc'
